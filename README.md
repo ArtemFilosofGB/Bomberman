@@ -1,6 +1,6 @@
 # BomberMan
 ![game.jpg](game.jpg)
-Список объектов
+## Список объектов
 * Creature
   * x,y
   * speed
@@ -27,6 +27,7 @@
 
 * Menu
   * start -> main loop
+  * settings
   * exit
 
 * Bomb
